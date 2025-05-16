@@ -267,7 +267,7 @@ public class Guerrero
 // clase mago con su respectivo inventario y atributos
 public class Mago
 {
-    private string[] _inventario = { "baston magico", "libro de hechizoz", "pocion de mana" }; //inventario de mago
+    private string[] _inventario = { "baston magico", "libro de hechizos", "pocion de mana" }; //inventario de mago
 
     public string[] Inventario
     {
