@@ -36,6 +36,7 @@ CLASE: GUERRERO
 ATRIBUTOS: 
 
 Vida: 100 Inteligencia: 28 Rabia: 6 Fuerza: 85
+
 INVENTARIO: 
 
 espada
