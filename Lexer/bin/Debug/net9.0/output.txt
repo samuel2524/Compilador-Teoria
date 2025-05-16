@@ -1,0 +1,9 @@
+PERSONAJE
+NOMBRE: SAMUEL
+CLASE: MAGO
+ATRIBUTOS: 
+Vida: 100 Inteligencia: 71 Mana: 100 Fuerza Magica: 23
+INVENTARIO: 
+baston magico
+libro de hechizoz
+pocion de mana

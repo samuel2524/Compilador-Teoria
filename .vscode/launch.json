@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Core Launch (console)",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/Lexer/bin/Debug/net9.0/Lexer.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Lexer",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    }
+  ]
+}
