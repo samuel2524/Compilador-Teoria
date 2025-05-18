@@ -47,3 +47,4 @@ pocion de vida
    
 ### CODIGO COMPLETO  
 📄**CODIGO:**[Ver compilador.cs](Lexer/analisisLexico.cs)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&pause=1000&color=96E5F7&center=true&width=435&lines=Servicio+Telem%C3%A1tico+-+Examen+3+-+Santiago+Hernandez)](https://git.io/typing-svg)
